@@ -735,6 +735,7 @@ fieldset form input {
   font-size: 13px;
   line-height: 1.2;
   letter-spacing: 2px;
+  padding-left: 10px;
 }
 
 .dsn-def-btn {
